@@ -1,0 +1,2 @@
+const filter = require('mymodule');
+
